@@ -1,0 +1,9 @@
+C++ aik high-level, general-purpose programming language hai jo C language par based hai.
+Yeh fast, powerful aur object-oriented features provide karti hai, jaise classes, objects, inheritance, polymorphism, etc.
+
+Iska use software development, games, system programming, aur performance-critical applications me hota hai.
+
+
+Creator: Bjarne Stroustrup
+Year: 1979 (develop start hui)
+Place: Bell Labs, USA
